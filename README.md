@@ -84,11 +84,15 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 <img width="2560" height="1600" alt="Screenshot 2025-09-01 085004" src="https://github.com/user-attachments/assets/5190da4c-fbb3-4ebf-ab2b-9ef8f603513b" />
 # SERVICES EXPLORED:
 # S3
+
 Amazon S3 (Simple Storage Service) is a scalable, high-speed, web-based cloud storage service offered by Amazon Web Services (AWS). It is primarily used for storing and retrieving any amount of data at any time, from anywhere on the web.
+
 <img width="2560" height="1600" alt="Screenshot 2025-09-01 083945" src="https://github.com/user-attachments/assets/c886fca6-758b-4755-96e7-3b114dff9220" />
 
 # EC2
+
 Amazon EC2 (Elastic Compute Cloud) is a core service of Amazon Web Services (AWS) that provides resizable virtual servers (known as instances) in the cloud. It allows users to run applications on virtual machines without needing to invest in physical hardware.
+
 <img width="2560" height="1600" alt="Screenshot 2025-09-01 084024" src="https://github.com/user-attachments/assets/617d9a11-bd36-422a-b088-c1d455625c85" />
 
 # Result:
