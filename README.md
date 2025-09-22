@@ -87,7 +87,7 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 
 # S3
 
-Amazon S3 (Simple Storage Service) is a highly scalable, durable, and secure object storage service provided by AWS, designed to store and retrieve any amount of data from anywhere on the web. It organizes data as objects within buckets, where each object consists of the data itself, metadata, and a unique key. S3 supports various use cases such as data backup, archiving, content distribution, and big data analytics, offering features like versioning, lifecycle policies, cross-region replication, and fine-grained access controls via IAM policies. With 99.999999999% (11 9's) durability and seamless integration with other AWS services, S3 is widely used for both static website hosting and cloud-native applications.
+Amazon S3 (Simple Storage Service) is a highly scalable, durable, and secure object storage service provided by AWS, designed to store and retrieve any amount of data from anywhere on the web. It organizes data as objects within buckets, where each object consists of the data itself, metadata, and a unique key. S3 supports various use cases such as data backup, archiving, content distribution, and big data analytics, offering features like versioning, lifecycle policies, cross-region replication, and fine-grained access controls via IAM policies. With durability and seamless integration with other AWS services, S3 is widely used for both static website hosting and cloud-native applications.
 <img width="2560" height="1600" alt="Screenshot 2025-09-01 083945" src="https://github.com/user-attachments/assets/c886fca6-758b-4755-96e7-3b114dff9220" />
 
 # EC2
