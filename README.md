@@ -83,7 +83,7 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 # home page
 <img width="2560" height="1600" alt="Screenshot 2025-09-01 085004" src="https://github.com/user-attachments/assets/5190da4c-fbb3-4ebf-ab2b-9ef8f603513b" />
 
-## SERVICES EXPLORED:
+# SERVICES EXPLORED:
 
 # S3
 
